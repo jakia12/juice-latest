@@ -9,7 +9,7 @@ export default function Home() {
       </Link>
       {/* trending slider */}
       <div className="flex gap-4 items-center mt-4">
-        <div className="xl:w-[14%] lg:w-[14%] w-[0%] 2xl:w-[18%] ">
+        <div className="xl:w-[14%] lg:w-[14%] w-[0%] 2xl:w-[18%] hidden 2xl:block xl:block lg:block">
           <h4 className="text-white text-[23px]">
             <span className="text-[#ffde30] 2xl:text-[26px] xl:text-[23px] lg:text-[23px] font-bold">
               Trending{" "}
