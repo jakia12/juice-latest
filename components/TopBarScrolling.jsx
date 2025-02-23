@@ -142,7 +142,7 @@ function TopBarScrolling({ apiKey }) {
               {item.name}
             </span>
             <h4 className="text-white 2xl:text-[14px] xl:text-[14px] lg:text-[14px] text-[14px] font-bold">
-              <span className="font-bold text-[#ffde30 ]">MCAP</span>{" "}
+              <span className="font-bold text-[#ffde30 ]">MCAP</span>
               {item.mcValue}
             </h4>
             <span className="text-[#64FF4A] 2xl:text-[14px] xl:text-[14px] lg:text-[14px] text-[14px]">
