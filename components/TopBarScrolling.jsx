@@ -120,7 +120,8 @@ function TopBarScrolling({ apiKey }) {
       {
         breakpoint: 480,
         settings: {
-          infinite: true,
+          autoplay: false,
+          infinite: false,
           slidesToShow: 2,
           slidesToScroll: 1,
         },
